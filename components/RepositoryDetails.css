@@ -1,0 +1,13 @@
+.repository-details-card {
+    margin-bottom: 20px; 
+  }
+  
+  .custom-btnn {
+    background-color: #007bff;
+    color: rgb(245, 245, 245); 
+  }
+  
+  .custom-btnn:hover {
+    background-color: #0056b3;
+  }
+  

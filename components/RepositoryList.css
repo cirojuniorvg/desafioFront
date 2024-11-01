@@ -1,0 +1,23 @@
+
+.repository-list {
+  background-color: #1e1e1e; 
+  padding: 20px; 
+  border-radius: 5px; 
+}
+
+
+.list-group-item {
+  background-color: #2a2a2a; 
+  color: #ffffff; 
+  border: none; 
+}
+
+
+.btn-sort {
+  color: #ffffff;
+}
+
+
+.list-group-item:hover {
+  background-color: #333333; 
+}

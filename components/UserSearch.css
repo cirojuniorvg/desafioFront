@@ -1,0 +1,15 @@
+.user-search-form {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+  }
+  
+  .input-group {
+    width: 100%; 
+    max-width: 400px;
+  }
+  
+  .btn {
+    width: 20%; 
+  }
+  

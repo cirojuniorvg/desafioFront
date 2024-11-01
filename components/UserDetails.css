@@ -1,0 +1,14 @@
+.avatar {
+    width: 100%; 
+    max-width: 150px; 
+    height: auto; 
+    margin: 0 auto; 
+    display: block; 
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+  }
+  
